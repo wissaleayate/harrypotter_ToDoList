@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+}
+h2{
+  
+  color: #deff71;
+  
+}
+button{
+  background-color: rgb(152, 215, 234);
+  padding: 5px 3px;
+  border-radius: 5px;
+}
+.box{
+    margin: 20px;
+}
+.box input{
+    padding:5px 20%;
+    border-radius: 5px;
+}

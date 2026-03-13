@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+h1{
+  font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: aliceblue;
+  font-size: 50px;
+  text-shadow: rgba(255, 255, 0, 0.473) 2px 2px;
+}
+body{
+  background-image: url(download\ \(11\).jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
