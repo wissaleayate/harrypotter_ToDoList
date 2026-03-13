@@ -13,12 +13,3 @@ Welcome to the magical world of **Harry Potter**! This is a **ToDo List** app wi
 - Magical animations and styling 🪄
 - Wizard-themed design and fonts
 
----
-
-
-## 🧙‍♂️ How to Use
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/wissaleayate/harrypotter_ToDoList.git
